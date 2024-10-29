@@ -1,0 +1,1 @@
+chromedriver	mac-arm64	https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.69/mac-arm64/chromedriver-mac-arm64.zip
